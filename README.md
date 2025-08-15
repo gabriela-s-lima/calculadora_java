@@ -54,9 +54,9 @@ Este projeto é uma **calculadora simples em Java**, desenvolvida para treinar c
 4. Execute:
    ```bash
    java Calculadora
-
-## 📸 Exemplo de execução
-  
+     
+5. Exemplo de execução: 
+   ```bash
    ===== CALCULADORA EM JAVA =====
    
    Digite o primeiro número: 5
