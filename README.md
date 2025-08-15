@@ -45,4 +45,35 @@ Este projeto é uma **calculadora simples em Java**, desenvolvida para treinar c
 
 ---
 
+## 🛠️ Como executar
+1. Tenha o Java JDK instalado na sua máquina.
+2. Baixe ou clone este repositório.
+3. Compile o arquivo `.java`:
+   ```bash
+   javac Calculadora.java
+4. Execute:
+   ```bash
+   java Calculadora
+
+## 📸 Exemplo de execução
+  
+   ===== CALCULADORA EM JAVA =====
+   
+   Digite o primeiro número: 5
+   Digite o segundo número: 3
+   
+   Escolha a operação:
+   [1] Soma (+)
+   [2] Subtração (-)
+   [3] Multiplicação (*)
+   [4] Divisão (/)
+   [5] Potenciação (x^n)
+   Digite o número da operação: 5
+   Resultado: 125.0
+   
+   Deseja fazer outro cálculo? (s/n): n
+   Encerrando a calculadora. Até mais!
+
+---
+
 ## Projeto criado para fins de estudo em Java.
